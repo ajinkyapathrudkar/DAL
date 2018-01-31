@@ -1,0 +1,10 @@
+D:\Team Projects\ACS_dev\ACS Development\Kale.Logistics\Framework\Common\DataAccessLayer\bin\Debug\ExternalLib\Microsoft.Practices.ObjectBuilder2.dll
+D:\Team Projects\ACS_dev\ACS Development\Kale.Logistics\Framework\Common\DataAccessLayer\bin\Debug\Kale.Logistics.Framework.Common.DataAccessLayer.dll.config
+D:\Team Projects\ACS_dev\ACS Development\Kale.Logistics\Framework\Common\DataAccessLayer\bin\Debug\Kale.Logistics.Framework.Common.DataAccessLayer.dll
+D:\Team Projects\ACS_dev\ACS Development\Kale.Logistics\Framework\Common\DataAccessLayer\bin\Debug\Kale.Logistics.Framework.Common.DataAccessLayer.pdb
+D:\Team Projects\ACS_dev\ACS Development\Kale.Logistics\Framework\Common\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Team Projects\ACS_dev\ACS Development\Kale.Logistics\Framework\Common\DataAccessLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Team Projects\ACS_dev\ACS Development\Kale.Logistics\Framework\Common\DataAccessLayer\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\Team Projects\ACS_dev\ACS Development\Kale.Logistics\Framework\Common\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Team Projects\ACS_dev\ACS Development\Kale.Logistics\Framework\Common\DataAccessLayer\obj\Debug\Kale.Logistics.Framework.Common.DataAccessLayer.dll
+D:\Team Projects\ACS_dev\ACS Development\Kale.Logistics\Framework\Common\DataAccessLayer\obj\Debug\Kale.Logistics.Framework.Common.DataAccessLayer.pdb
